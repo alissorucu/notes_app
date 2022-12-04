@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174405319948",
+    "project_id": "notes-app-case",
+    "storage_bucket": "notes-app-case.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174405319948:android:acd64002153f8006efdd29",
+        "android_client_info": {
+          "package_name": "com.alissorucu.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174405319948-3otevkk8q67c1khe8icji6fbp81hskmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcsB81Y4WKz4HK0CfNYee3Aedn3gVhcpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174405319948-3otevkk8q67c1khe8icji6fbp81hskmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
