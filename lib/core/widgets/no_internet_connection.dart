@@ -9,7 +9,7 @@ class NoInternetConnectionAlert extends StatelessWidget {
     return StreamBuilder(
         stream: Connectivity().onConnectivityChanged,
         builder: (context, snap) {
-          bool hasConnection = snap.connectionState != ConnectionState.none;
+          bool hasConnection = snap.data != ConnectivityResult.none;
           return AnimatedPositioned(
               right: 0,
               left: 0,
